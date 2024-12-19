@@ -2,8 +2,17 @@
 layout: default
 ---
 
-## Software engineer with 3+ years experience in managing highly scalable backend services and systems.
+# Hello! 
+
+I'm Kevin, a software developer with 3+ years experience in managing highly scalable backend systems. 
+
+I previously worked at **Tesla** as part of the digital products team. There I worked on the process automation software to support the battery, energy and charging products.
+
 * * *
+
+## Experience
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
