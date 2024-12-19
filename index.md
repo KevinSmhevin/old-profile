@@ -3,9 +3,8 @@ layout: default
 ---
 <base target="_blank">
 
-```
-Hello World!
-```
+## Hello!
+
 ***
 
 I'm Kevin, a software developer with 3+ years experience in managing highly scalable backend systems. 
