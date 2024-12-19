@@ -14,7 +14,7 @@ I previously worked at **Tesla** as part of the digital products team. There I w
 
 ### Pokebin Ecommerce Site
 
-![Pokebin logo]([https://github.githubassets.com/images/icons/emoji/octocat.png](https://img.icons8.com/?size=100&id=64897&format=png&color=000000))
+![Pokebin logo](https://img.icons8.com/?size=100&id=64897&format=png&color=000000)
 
 [Pokebin](https://pokebin.app/) is an ecommerce app I built to sell various collectibles like pokemon cards.
 I built the app using **Django** as the backend frameworks, **PostgresSQL** for the database and **S3** for object storage.
