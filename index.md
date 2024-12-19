@@ -1,7 +1,8 @@
-<base target="_blank">
 ---
 layout: default
 ---
+<base target="_blank">
+
 ```
 Hello World!
 ```
