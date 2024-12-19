@@ -21,7 +21,7 @@ I previously worked at **Tesla** as part of the digital products team. There I w
 
 [Pokebin](https://pokebin.app/) is an ecommerce app I built to sell various collectibles like pokemon cards.
 I built the app using **Django** as the backend frameworks, **PostgresSQL** for the database and **S3** for object storage.
-
+***
 
 
 ### [Watch-games](https://kevinsmhevin.github.io/watch-games/)
