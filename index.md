@@ -14,7 +14,8 @@ I previously worked at **Tesla** as part of the digital products team. There I w
 ## Projects
 
 
-### Pokebin Ecommerce Site
+
+### [Pokebin](https://pokebin.app/) Ecommerce Site
 
 ![Pokebin logo](https://img.icons8.com/?size=100&id=64897&format=png&color=000000)
 
@@ -22,7 +23,8 @@ I previously worked at **Tesla** as part of the digital products team. There I w
 I built the app using **Django** as the backend frameworks, **PostgresSQL** for the database and **S3** for object storage.
 
 
-### Watch games
+
+### [Watch-games](https://kevinsmhevin.github.io/watch-games/)
 
 ![Watch games logo](https://img.icons8.com/?size=100&id=81939&format=png&color=000000)
 
