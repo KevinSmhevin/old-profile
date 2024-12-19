@@ -17,7 +17,7 @@ I previously worked at **Tesla** as part of the digital products team. There I w
 ***
 
 
-### - [Pokebin](https://pokebin.app/) Ecommerce Site
+### - [Pokebin](https://pokebin.app/)
 
 ![Pokebin logo](https://img.icons8.com/?size=100&id=64897&format=png&color=000000)
 
