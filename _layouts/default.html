@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {% seo %}
+
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -14,7 +15,7 @@
   </head>
   <body>
     <div class="wrapper">
-      <header>
+      <>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
@@ -32,8 +33,6 @@
         <p class="view"><a href="https://www.linkedin.com/in/kevin-paras-1b7696104/">Linkedin profile</a></p>
         <p class="view"></p><a href="mailto:kevincparas@gmail.com" target="_blank"><span class="word-contrast-dark">Email me</a></p>
         <p class="view"><a href="Kevin-Paras-Resume.pdf" download>Download my resume</a></p>
-
-
         {% endif %}
 
         {% if site.show_downloads %}
