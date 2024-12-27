@@ -13,6 +13,11 @@
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
+  color: black;
+}
+
+.button-52 > p {
+    color: black;
 }
 
 .button-52:after {
