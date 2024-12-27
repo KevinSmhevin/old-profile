@@ -30,13 +30,10 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <div style="display: flex; flex-direction: column;">
-          <a class="btn btn-outline-primary btn-sm" style="margin: 2px;" href="{{ site.github.owner_url }}">Github profile</a>
-          <a class="btn btn-outline-primary btn-sm" style="margin: 2px;" href="https://www.linkedin.com/in/kevin-paras-1b7696104/">Linkedin profile</a>
-          <a class="btn btn-outline-primary btn-sm" style="margin: 2px;" href="mailto:kevincparas@gmail.com" target="_blank">Email me</a>
-          <a class="btn btn-outline-primary btn-sm" style="margin: 2px;" href="Kevin-Paras-Resume.pdf" download>Download my resume</a>
-        </div>
-
+          <a class="view" style="margin: 2px;" href="{{ site.github.owner_url }}">Github profile</a>
+          <a class="view" style="margin: 2px;" href="https://www.linkedin.com/in/kevin-paras-1b7696104/">Linkedin profile</a>
+          <a class="view" style="margin: 2px;" href="mailto:kevincparas@gmail.com" target="_blank">Email me</a>
+          <a class="view" style="margin: 2px;" href="Kevin-Paras-Resume.pdf" download>Download my resume</a>
         {% endif %}
 
         {% if site.show_downloads %}
